@@ -1,4 +1,4 @@
-# Ali Mithuru
+# Ali Mithuru Mobile app UI/UX Design
 
 Ali Mithuru is a group project showcasing our design prototype as a solution human-elephant conflict.
 
